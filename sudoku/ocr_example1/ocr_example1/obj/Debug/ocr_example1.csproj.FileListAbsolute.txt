@@ -1,0 +1,9 @@
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\bin\Debug\ocr_example1.exe.config
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\bin\Debug\ocr_example1.exe
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\bin\Debug\ocr_example1.pdb
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\obj\Debug\ocr_example1.csprojResolveAssemblyReference.cache
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\obj\Debug\ocr_example1.csproj.CoreCompileInputs.cache
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\obj\Debug\ocr_example1.exe
+C:\Users\Steve\github\opencv-projects\sudoku\ocr_example1\ocr_example1\obj\Debug\ocr_example1.pdb
